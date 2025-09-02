@@ -1,0 +1,6 @@
+com\example\pokedex\model\Pokemon.class
+com\example\pokedex\controller\PokemonController$RestErrors.class
+com\example\pokedex\PokedexApplication.class
+com\example\pokedex\repository\PokemonRepository.class
+com\example\pokedex\controller\PokemonController.class
+com\example\pokedex\schema\PokemonSchema.class
